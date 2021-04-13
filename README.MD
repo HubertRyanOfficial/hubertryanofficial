@@ -10,7 +10,7 @@ I'm a Front-End, Mobile Android developer and Designer UI from Brazil. Being cha
 
 Connect with me:
 
-📷 Instagram: https://instagram.com/hubertryanofficial
+📷 Instagram: https://instagram.com/hubertryanofficial </br>
 💎 Twitter: https://instagram.com/hubertryanofficial
 
 Thank you so much for reading this repository and seeing my code shares, a huge hug!
