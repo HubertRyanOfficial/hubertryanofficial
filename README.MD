@@ -2,7 +2,7 @@
 
 My name is **Hubert Ryan** (BR) 💥
 
-I'm a Front-End, Mobile Android developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best technologies: React JS & React Native.
+I'm a Front-End, Mobile Android developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best technologies: Node JS, React JS & React Native.
 
 > I love to develop and create things with technologies!
 
