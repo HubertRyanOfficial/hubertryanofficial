@@ -15,5 +15,5 @@ Connect with me:
 💎 Twitter: https://twitter.com/hubertryanoff </br>
 
 Thank you so much for reading this repository and seeing my code shares, a huge hug!
-Always keep **learning** and **updating**.
+Always keep **learning** and **updating**.</br>
 By **Hubert Ryan** 😋
