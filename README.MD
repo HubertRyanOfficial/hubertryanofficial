@@ -11,7 +11,6 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 Connect with me:
 
 🎥 **Tapedin:** https://tapedin.com.br </br>
-📷 Instagram: https://instagram.com/hubertryanofficial </br>
 💎 Twitter: https://twitter.com/hubertryanoff </br>
 
 Thank you so much for reading this repository and seeing my code shares, a huge hug!
