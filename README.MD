@@ -2,7 +2,7 @@
 
 Name's **Hubert Ryan** (BR) 💥
 
-I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best technologies: Node JS, React JS & React Native.
+I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best technologies: Javascript, Python, Node JS, React JS & React Native.
 
 > I love to develop and creating things with technologies!
 
