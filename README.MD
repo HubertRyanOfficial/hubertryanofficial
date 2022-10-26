@@ -6,13 +6,11 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 > I love to develop and creating things with technologies!
 
-### Thank You 🎉
-
 Connect with me:
 
 🎥 **Tapedin:** https://tapedin.com.br </br>
 💎 Twitter: https://twitter.com/hubertryanoff </br>
 
-Thank you so much for reading this repository and seeing my code shares, a huge hug!
+Thanks for reading this repository and seeing my code shares, a huge hug!
 Always keep **learning** and **updating**.</br>
 By **Hubert Ryan** 😋
