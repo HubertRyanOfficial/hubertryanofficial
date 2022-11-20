@@ -6,8 +6,6 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 > I love to develop and creating things with technologies!
 
-## Tecnologies
-
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mongodb,nodejs,react,prisma,tailwind)](https://skills.thijs.gg)
 
 ## Personal projects
