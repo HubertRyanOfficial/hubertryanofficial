@@ -1,4 +1,4 @@
-## Hey Dude!
+# Hey Dude!
 
 Name's **Hubert Ryan** (BR) 💥
 
@@ -6,10 +6,16 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 > I love to develop and creating things with technologies!
 
+## Personal projects
+
+Tapedin (Private): https://tapedin.com.br
+Smell Records (Private): https://smellrcds.com
+CloudSky (Open Source): https://cloudsky.app
+
 Connect with me:
 
-🎥 **Tapedin:** https://tapedin.com.br </br>
 💎 Twitter: https://twitter.com/hubertryanoff </br>
+📧 E-mail: hubertryanofficial@gmai.com </br>
 
 Thanks for reading this repository and seeing my code shares, a huge hug!
 Always keep **learning** and **updating**.</br>
