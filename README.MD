@@ -8,9 +8,9 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 ## Personal projects
 
-Tapedin (Private): https://tapedin.com.br
-Smell Records (Private): https://smellrcds.com
-CloudSky (Open Source): https://cloudsky.app
+Tapedin (Private): https://tapedin.com.br </br>
+Smell Records (Private): https://smellrcds.com </br>
+CloudSky (Open Source): https://cloudsky.app </br>
 
 Connect with me:
 
