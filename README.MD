@@ -14,7 +14,7 @@ Tapedin (Private): https://tapedin.com.br </br>
 Smell Records (Private): https://smellrcds.com </br>
 CloudSky (Open Source): https://cloudsky.app </br>
 
-Connect with me:
+**Connect with me:**
 
 💎 Twitter: https://twitter.com/hubertryanoff </br>
 📧 E-mail: hubertryanofficial@gmai.com </br>
