@@ -16,8 +16,9 @@ CloudSky (Open Source): https://cloudsky.app </br>
 
 **Connect with me:**
 
-💎 Twitter: https://twitter.com/hubertryanoff </br>
-📧 E-mail: hubertryanofficial@gmail.com </br>
+Linkedin: https://linkedin.com/in/hubertryanofficial </br>
+Twitter: https://twitter.com/hubertryanoff </br>
+E-mail: hubertryanofficial@gmail.com </br>
 
 Thanks for reading this repository and seeing my code shares, a huge hug!
 Always keep **learning** and **updating**.</br>
