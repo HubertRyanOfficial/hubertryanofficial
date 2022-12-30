@@ -10,10 +10,9 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 ## Personal projects
 
-Tapedin (Private): https://tapedin.com.br </br>
-Between Pages (Open Source Library) https://github.com/HubertRyanOfficial/between-pages </br>
-Smell Records (Private): https://smellrcds.com </br>
-CloudSky (Open Source): https://cloudsky.app </br>
+Tapedin (Private) 🔥: https://tapedin.com.br </br>
+Between Pages (Animation Open Source Library 🤩) https://github.com/HubertRyanOfficial/between-pages </br>
+Smell Records (Private) 🎶: https://smellrcds.com </br>
 
 **Connect with me:**
 
