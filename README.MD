@@ -15,6 +15,7 @@ Between Pages (Animation Open Source Library 🤩) https://github.com/HubertRyan
 
 **Connect with me:**
 
+Tapedin: @hubertryan
 Linkedin: https://linkedin.com/in/hubertryanofficial </br>
 Twitter: https://twitter.com/hubertryanoff </br>
 E-mail: hubertryanofficial@gmail.com </br>
