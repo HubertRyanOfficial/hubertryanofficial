@@ -10,7 +10,7 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 ## Personal projects
 
-Tapedin (Private) 🔥: https://tapedin.com.br </br>
+Tapedin 🔥: https://tapedin.com.br </br>
 Between Pages (Animation Open Source Library 🤩) https://github.com/HubertRyanOfficial/between-pages </br>
 
 **Connect with me:**
