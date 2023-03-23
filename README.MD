@@ -16,7 +16,7 @@ CloudSky: **IN_PROGRESS**
 ## Libraries
 
 Between Pages (Animation Open Source Library 🤩) https://github.com/HubertRyanOfficial/between-pages </br>
-Firebase Batch: https://github.com/HubertRyanOfficial/firebase-batch-hook </br> </br>
+Firebase Batch: https://github.com/HubertRyanOfficial/firebase-batch-hook </br>
 React LastCall: https://github.com/HubertRyanOfficial/react-lastcall-hook </br>
 React BlockPress: https://github.com/HubertRyanOfficial/react-blockpress-hook
 
