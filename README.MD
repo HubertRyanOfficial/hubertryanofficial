@@ -23,8 +23,8 @@ React BlockPress: https://github.com/HubertRyanOfficial/react-blockpress-hook
 **Connect with me:**
 
 Tapedin: @hubertryan </br>
-Linkedin: https://linkedin.com/in/hubertryanofficial </br>
 Twitter: https://twitter.com/hubertryanoff </br>
+Linkedin: https://linkedin.com/in/hubertryanofficial </br>
 E-mail: hubertryanofficial@gmail.com </br>
 
 Thanks for reading this repository and seeing my code shares, a huge hug!
