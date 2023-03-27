@@ -11,7 +11,7 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 ## Personal projects
 
 Tapedin 🔥: https://tapedin.com.br </br>
-CloudSky: **IN_PROGRESS**
+CloudSky: https://cloudsky.app ***(IN_PROGRESS)***
 
 ## Libraries
 
