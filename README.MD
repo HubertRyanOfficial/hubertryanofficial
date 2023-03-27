@@ -13,13 +13,6 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 Tapedin 🔥: https://tapedin.com.br </br>
 CloudSky: https://cloudsky.app ***(IN_PROGRESS)***
 
-## Libraries
-
-Between Pages (Animation Open Source Library 🤩) https://github.com/HubertRyanOfficial/between-pages </br>
-Firebase Batch: https://github.com/HubertRyanOfficial/firebase-batch-hook </br>
-React LastCall: https://github.com/HubertRyanOfficial/react-lastcall-hook </br>
-React BlockPress: https://github.com/HubertRyanOfficial/react-blockpress-hook
-
 **Connect with me:**
 
 Tapedin: @hubertryan </br>
