@@ -10,11 +10,11 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 ## Personal projects
 
-Tapedin 🔥: https://tapedin.com.br </br>
-Opx Browser: https://opxbrowser.com </br>
-CloudSky: https://cloudsky.app ***(IN_PROGRESS)***
+**Tapedin** 🔥: https://tapedin.com.br </br>
+**Opx Browser**: https://opxbrowser.com </br>
+**CloudSky**: https://cloudsky.app ***(IN_PROGRESS)***
 
-**Connect with me:**
+## Connect with me:
 
 Tapedin: @hubertryan </br>
 Twitter: https://twitter.com/hubertryanoff </br>
