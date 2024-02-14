@@ -9,9 +9,9 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 ## Personal projects
 
 **Tapedin** 🔥: https://tapedin.com.br </br>
-**Opx Browser**: https://opxbrowser.com </br>
-**CloudSky**: https://cloudsky.app </br>
 **Sixcry**: https://sixcry.com
+**CloudSky**: https://cloudsky.app </br>
+**Opx Browser**: https://opxbrowser.com </br>
 
 ## Connect with me:
 
