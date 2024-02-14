@@ -10,8 +10,8 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 
 **Tapedin** 🔥: https://tapedin.com.br </br>
 **Opx Browser**: https://opxbrowser.com </br>
-**CloudSky**: https://cloudsky.app ***(IN_PROGRESS)*** </br>
-**Sixcry**: https://sixcry.com ***(IN_PROGRESS)***
+**CloudSky**: https://cloudsky.app </br>
+**Sixcry**: https://sixcry.com
 
 ## Connect with me:
 
