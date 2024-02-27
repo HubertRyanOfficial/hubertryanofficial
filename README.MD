@@ -12,7 +12,7 @@ I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged an
 **Sixcry**: https://sixcry.com </br>
 **CloudSky**: https://cloudsky.app </br>
 **Opx Browser**: https://opxbrowser.com </br>
-**Kova (CMS)**: https://usekova.com (IN_PROGRESS)
+**Kova (CMS)**: https://usekova.com *(IN_PROGRESS)*
 
 ## Connect with me:
 
