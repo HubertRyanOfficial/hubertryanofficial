@@ -2,9 +2,7 @@
 
 Name's **Hubert Ryan** (BR) 💥
 
-I'm FullStack, Mobile developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best main technologies:
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,py,html,css,git,mongodb,firebase,gcp,nodejs,react,nextjs,prisma,tailwind,graphql,figma,xd)](https://skills.thijs.gg)
+I'm a FullStack, Mobile developer and Designer UI from Brazil. Being challenged and keeping up to date are one of my motivations. Developer with the best main technologies:
 
 ## Personal projects
 
