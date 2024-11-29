@@ -1,6 +1,6 @@
 # Hey Dude!
 
-Name's **Hubert Ryan** (BR) 💥
+It's **Hubert Ryan** 💥
 
 I'm a Software Engineer and UI/UX Designer. <br/>
 Being challenged and keeping up to date are one of my motivations.
