@@ -2,7 +2,7 @@
 
 Name's **Hubert Ryan** (BR) 💥
 
-I'm a Software Engineer and UI/UX Designer. 
+I'm a Software Engineer and UI/UX Designer. <br/>
 Being challenged and keeping up to date are one of my motivations.
 
 ## Personal projects
