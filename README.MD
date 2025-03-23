@@ -1,6 +1,4 @@
-# Hey Dude!
-
-Hi, it's **Hubert Ryan** here. 
+# Hi, it's **Hubert Ryan** here. 
 
 I'm a Software Engineer and UI/UX Designer. <br/>
 
